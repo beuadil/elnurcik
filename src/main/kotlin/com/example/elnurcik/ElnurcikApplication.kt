@@ -9,4 +9,7 @@ class ElnurcikApplication
 fun main(args: Array<String>) {
     runApplication<ElnurcikApplication>(*args)
 }
+
 salam1
+
+salam
